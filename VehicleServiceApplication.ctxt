@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VehicleServiceApplication
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=serviceCenter\ serviceLane\ scanner
+comment2.target=void\ addCustomer(VehicleServiceCenter,\ ServiceLane,\ java.util.Scanner)
+comment3.params=serviceCenter\ serviceLane\ scanner
+comment3.target=void\ uploadCustomerListFile(VehicleServiceCenter,\ ServiceLane,\ java.util.Scanner)
+numComments=4

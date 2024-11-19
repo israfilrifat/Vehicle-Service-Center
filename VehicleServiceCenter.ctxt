@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VehicleServiceCenter
+comment1.params=
+comment1.target=VehicleServiceCenter()
+comment2.params=customer
+comment2.target=void\ addCustomer(CustomerInfo)
+comment3.params=
+comment3.target=java.util.List\ getCustomerList()
+numComments=4

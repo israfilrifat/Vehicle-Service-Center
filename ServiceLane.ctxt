@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ServiceLane
+comment1.params=
+comment1.target=ServiceLane()
+comment2.params=customer
+comment2.target=void\ addCustomerToLane(CustomerInfo)
+comment3.params=
+comment3.target=void\ processServices()
+comment4.params=lane
+comment4.target=void\ processLane(java.util.Queue)
+comment5.params=customer
+comment5.target=void\ displayReceipt(CustomerInfo)
+comment6.params=
+comment6.target=void\ displayCompletedTransactions()
+comment7.params=
+comment7.target=void\ viewCustomerList()
+numComments=8
